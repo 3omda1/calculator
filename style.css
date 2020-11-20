@@ -1,0 +1,46 @@
+
+.title{
+border-radius: 10px;
+margin-bottom:10px;
+text-align: center;
+width: 300px;
+color:black;
+border: solid aqua 3px;
+align-content:center;
+margin-top: 150px;
+margin-left: 370px;
+background-color: white;
+
+}
+
+input[type="button"]
+{
+border-radius: 10px;
+background-color:aqua;
+color: black;
+border-color:black;
+width:100%;
+
+}
+
+input[type="text"]
+{
+border-radius: 10px;
+text-align: right;
+background-color:white;
+border-color: black ;
+width: 97%;
+
+}
+
+table{
+margin-left: 370px;
+width:300px;
+background-color: white;
+}
+body{
+background-color: black;
+}
+.center{
+text-align: center
+}
